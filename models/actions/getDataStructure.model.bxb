@@ -3,9 +3,9 @@ action (getDataStructure) {
   description (Searches for the asked data structure)
   collect {
     input (dsName) {
-      type (AboutDataStructureConcept)
+      type (DataStructureConcept)
       min (Optional) max (One)
     }
   }
-  output (AboutDataStructureConcept)
+  output (dsInfo)
 }
