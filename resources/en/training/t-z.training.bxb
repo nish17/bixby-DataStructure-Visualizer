@@ -1,0 +1,5 @@
+train (t-zx625pvbaxquv10d4oibnbapf) {
+  utterance ("[g:getDataStructure] show me information about (Binary Search Tree)[v:DataStructureConcept]")
+  plan (Y2Bm0CzISaxML8ovzUvRS0ksSQwuKSpNLiktSg3LLC5NzMmsSi3SSyn2zEvLZzAmQml6aokLshSDORGaUHQ45+clpxaUMDAxMAIxA5BkZAABKB8A)
+  last-modified (1566766200399)
+}

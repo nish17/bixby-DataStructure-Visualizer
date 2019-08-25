@@ -1,0 +1,4 @@
+dialog (Result) {
+  match: dsInfo(this)
+  template("Here's the information about #{value(this)}")
+}
