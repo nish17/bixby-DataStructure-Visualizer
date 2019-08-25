@@ -1,0 +1,11 @@
+action (getDataStructure) {
+  type(Search)
+  description (Searches for the asked data structure)
+  collect {
+    input (dsName) {
+      type (AboutDataStructureConcept)
+      min (Optional) max (One)
+    }
+  }
+  output (AboutDataStructureConcept)
+}

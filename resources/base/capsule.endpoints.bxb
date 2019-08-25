@@ -1,0 +1,8 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (getDataStructure) {
+      accepted-inputs (dsName)
+      local-endpoint (getDataStructureAction.js)
+    }
+  }
+}

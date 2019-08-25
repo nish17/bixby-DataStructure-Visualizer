@@ -1,0 +1,5 @@
+train (t-92k40zabsgx12z4hcaro43myv) {
+  utterance ("[g:getDataStructure] please tell me about (Hashing)[v:AboutDataStructureConcept]")
+  plan (Y2BmsMjLLM4wNNdLSSxJDC4pKk0uKS1KDcssLk3MyaxKLdJzTMovLXFBlnTOz0tOLShh0CegMz0VVR8FVjExMAIxA5BkZAABKB8A)
+  last-modified (1566763184559)
+}
