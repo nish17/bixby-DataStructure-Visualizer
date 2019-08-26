@@ -1,11 +1,15 @@
 action (getDataStructure) {
   type(Search)
-  description (Searches for the asked data structure)
+  description (Searches for the asked data structure either by name or type)
   collect {
     input (dsName) {
       type (DataStructureConcept)
       min (Optional) max (One)
     }
+    input (type) {
+      type (typeOfDS)
+      min (Optional) max (One)
+    }    
   }
   output (dsInfo)
 }

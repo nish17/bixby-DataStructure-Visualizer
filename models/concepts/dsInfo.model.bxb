@@ -1,3 +1,38 @@
-text (dsInfo) {
-  description (__DESCRIPTION__)
+structure (dsInfo) {
+  description (Data Strucutre Info)
+  property (name) {
+    type (DataStructureConcept)
+    min (Optional) max (One)
+  }
+  property (type) {
+    type (viv.core.Text)
+    min (Required) max (One)
+    visibility (Private)
+  }
+  property (description) {
+    type (viv.core.Text)
+    min (Required) max (One)
+    visibility (Private)
+  }
+  property (complexity) {
+    type (viv.core.Text)
+    min (Optional) max (Many)
+    visibility (Private)
+  }
+  property (types) {
+    type (viv.core.Text)
+    min (Optional) max (Many)
+    visibility (Private)
+  }
+  property (link) {
+    type (viv.core.Text)
+    min (Optional) max (Many)
+    visibility (Private)
+  }
+  property (linkDescription) {
+    type (viv.core.Text)
+    min (Optional) max (Many)
+    visibility (Private)
+  }
 }
+

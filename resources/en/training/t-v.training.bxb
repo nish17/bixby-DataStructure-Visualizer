@@ -1,0 +1,5 @@
+train (t-v33cacowz3rqhrlm2x5go4pxe) {
+  utterance ("[g:getDataStructure] tell me about (linked list)[v:DataStructureConcept]")
+  plan (Y2Bm0CzISaxML8ovzUvRS0ksSQwuKSpNLiktSg3LLC5NzMmsSi3SSyn2zEvLZzAmQml6aokLshSDORGaUHQ45+clpxaUMDAxMAIxA5BkZAABKB8A)
+  last-modified (1566820222537)
+}

@@ -1,0 +1,5 @@
+train (t-tdtush0003kg8nofxb7lve9sz) {
+  utterance ("[g:getDataStructure] show me (array)[v:DataStructureConcept]")
+  plan (Y2Bm0CzISaxML8ovzUvRS0ksSQwuKSpNLiktSg3LLC5NzMmsSi3SSyn2zEvLZzAmQml6aokLshSDORGaUHQ45+clpxaUMDAxMAIxA5BkZAABKB8A)
+  last-modified (1566820263319)
+}

@@ -1,0 +1,4 @@
+vocab(typeOfDS){
+  "Linear" {"linear" "linear data structure" "linear ds" "linear DS"}
+  "Non Linear" {"non linear" "non-linear" "not linear" "non linear data structure", "non-linear data structure"}
+}

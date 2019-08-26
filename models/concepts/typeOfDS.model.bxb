@@ -1,0 +1,8 @@
+enum (typeOfDS) {
+  description (types of DS either Linear or Non-Linear)
+  symbol (Linear)
+  symbol (Non Linear)
+  features{
+    transient
+  }
+}
