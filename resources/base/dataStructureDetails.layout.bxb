@@ -1,0 +1,24 @@
+layout-macro-def (dataStructureDetails){
+	params{
+		param (data){
+			type(DataStructureConcept)
+      min (Required)
+      max (One)
+    }
+	}
+  content{
+    section{
+      content{
+        single-line{
+          text{
+            value("Definition:")
+            style(Detail_L_Soft)
+          }
+        }
+        paragraph{
+          value("#{value(data.description)}")
+        }
+      }
+    }
+  }
+}

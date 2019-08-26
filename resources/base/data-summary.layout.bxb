@@ -1,0 +1,14 @@
+layout-macro-def (data-summary){
+  params{
+    param (data){
+      type (DataStructureConcept)
+      min (Required)
+      max (One)
+    }
+  }
+  content{
+    paragraph{
+      value(hi I am in the dataStructure Summary Details)
+    }
+  }
+}

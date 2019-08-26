@@ -8,7 +8,9 @@ const ds = [
         search_time: "O(n)",
         insert_time: "O(n)",
         delete_time: "O(n)"
-      }
+      },
+      link: "https://www.youtube.com/results?search_query=Array",
+      linkDescription: "Videos on Array"
     
     },
     {
@@ -21,8 +23,9 @@ const ds = [
         insert_time: "O(1)",
         delete_time: "O(1)"
       },
-      types: ['Singly LinkedList','Doubly LinkedList', 'Circular LinkedList']
-
+      types: ['Singly LinkedList','Doubly LinkedList', 'Circular LinkedList'],
+      link: "https://www.youtube.com/results?search_query=Linked+List",
+      linkDescription: "Videos on Linked list"
     },
     {
       name: "Stack",
@@ -32,7 +35,10 @@ const ds = [
         access_time: "O(n)",
         insert_time: "O(1)",
         delete_time: "O(1)"
-      }
+      },
+      link: "https://www.youtube.com/results?search_query=Stack",
+      linkDescription: "Videos on Stack"
+      
       
     },
     {
@@ -44,7 +50,9 @@ const ds = [
         insert_time: "O(1)",
         delete_time: "O(1)"
       },
-      types: ['Circular Queue']
+      types: ['Circular Queue'],
+      link: "https://www.youtube.com/results?search_query=Queue",
+      linkDescription: "Videos on Queue"
     },
     {
       name: "Binary Tree",
@@ -53,7 +61,9 @@ const ds = [
       complexity:{
         time_complexity: "O(n)",
         space_complexity: "O(n)"
-      }
+      },
+      link: "https://www.youtube.com/results?search_query=Binary+Tree",
+      linkDescription: "Videos on Binary Tree"
     },
     {
       name: "Binary Search Tree",
@@ -63,7 +73,9 @@ const ds = [
         Search :  "O(h)",
         insert : "O(h)",
         delete : "O(h)"
-      }
+      },
+      link: "https://www.youtube.com/results?search_query=Binary+Search+Tree",
+      linkDescription: "Videos on Binary Search Tree"
     },
     {
       name: "Hashing",
@@ -73,7 +85,9 @@ const ds = [
         search: "O(n)",
         insert: "O(n)",
         delete: "O(n)"
-      }
+      },
+      link: "https://www.youtube.com/results?search_query=Hashing",
+      linkDescription: "Videos on Hashing"
     } 
   ];
   
