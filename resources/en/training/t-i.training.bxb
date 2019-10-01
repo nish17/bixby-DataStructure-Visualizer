@@ -1,0 +1,10 @@
+train (t-idktyao1v8kjms3rbfee4cnpv) {
+  utterance ("[g:FindDS] what is (binary tree)[v:Name]")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568787399437)
+}
+train (t-iit24vhjvmnwyh7zrurb1hd2y) {
+  utterance ("[g:FindDS] show me (non linear)[v:Types:'non linear'] data structures")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgj1tFSGVBajEDEwMjEDMASUYGEIDyAQ==)
+  last-modified (1567520428113)
+}

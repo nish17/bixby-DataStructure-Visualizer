@@ -1,0 +1,76 @@
+layout-macro-def (ds-details){
+  params{
+    param (dataStructure){
+      type (DataStructure)
+      min (Required)
+      max (One)
+    }
+  }
+  content{
+    section{
+      content{
+
+        image{
+          url("#{value(dataStructure.image)}")
+        }
+
+        single-line{
+          text{
+            value("Description:")
+            style(Detail_M_Soft)
+          }
+        }
+        spacer
+        paragraph{
+          value("#{value(dataStructure.description)}")
+        }
+        spacer
+        divider
+        spacer
+        single-line{
+          text{
+            value("Complexities:")
+            style(Detail_M_Soft)
+          }
+        }
+        for-each (dataStructure.complexity){
+          as (complexity){
+            spacer
+            paragraph{
+              value("#{value(complexity)}")
+              style(Detail_L)
+            }
+          }
+        }
+        attribution-link{
+          label{
+            template ("#{value(dataStructure.linkDescription)}")
+          }
+            url("#{value(dataStructure.link)}")
+        }
+        spacer
+        divider
+        spacer
+        if (exists(dataStructure.types)){
+          single-line{
+            text{
+              value("Types of ${value(dataStructure.name)}:")
+              style(Detail_L)
+            }
+          }
+          for-each (dataStructure.types){
+            as (types){
+              spacer
+              single-line{
+                text{
+                  value("#{value(types)}")
+                  style(Detail_L)
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

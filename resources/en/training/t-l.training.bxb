@@ -1,0 +1,20 @@
+train (t-l4sfoxe3nzyglmv7oj1gsim73) {
+  utterance ("[g:FindDS] what is a (binary tree)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568787422562)
+}
+train (t-l9av0cz3c5crdrkl8oiegi2tp) {
+  utterance ("[g:FindDS] tell me about an (array)[v:Name]")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568787068214)
+}
+train (t-lsk5w8ac0bflyu2mji6l9c0du) {
+  utterance ("[g:FindDS] what is a (linked list)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568787479459)
+}
+train (t-lu86nmkd1sn46i0pqbbct3rko) {
+  utterance ("[g:FindDS] tell me about (hashing)[v:Name]")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568787330745)
+}

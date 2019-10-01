@@ -1,0 +1,12 @@
+capsule-info {
+  display-name (Data Structure Visualizer)
+  developer-name (Nimesh Solanki)
+  icon-asset (/icon/icon.jpeg)
+  description ("Data Structure Visualizer helps you learn about the different types of Data structures in a simpler and easy way.")
+  search-keywords {
+    keyword (Data Structure)
+    keyword (Math)
+    keyword (Computer Science)
+  }
+  dispatch-name (Data Structure Visualizer)
+}

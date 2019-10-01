@@ -1,0 +1,10 @@
+data:
+  deviceIsInHandsFreeMode: false
+  geo:
+    latitude: '37.334502'
+    longitude: '-121.890654'
+  time: '2019-09-03T20:38:18.441Z'
+  tz: Asia/Calcutta
+steps:
+  step-KX2: ~
+version: 2

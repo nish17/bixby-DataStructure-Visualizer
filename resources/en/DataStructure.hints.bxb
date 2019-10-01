@@ -1,0 +1,13 @@
+hints {
+  uncategorized {
+    hint ("With Data Structure Visualizer let's learn about data structures"){
+      preferred-hint ("let's learn about data structures")
+    }
+    hint ("ask Data Structure Visualizer to tell me about a linear data structure"){
+      preferred-hint ("tell about a linear data structure")
+    }
+    hint ("ask Data Structure Visualizer to tell me about a non linear data structure"){
+      preferred-hint ("tell about a non linear data structure")
+    }
+  }
+}

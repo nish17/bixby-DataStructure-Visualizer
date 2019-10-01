@@ -1,0 +1,15 @@
+train (t-gkw9jzpzk9cqw1yi0as0m6zro) {
+  utterance ("[g:FindDS] show me (stack)[v:Name]")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567519905956)
+}
+train (t-gl9iemy67z7r66jhqps5crglm) {
+  utterance ([g:FindDS] list all the data structures)
+  plan (Y2BiUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEszACIQMUAwkAQ==)
+  last-modified (1567520981520)
+}
+train (t-glp1g10k6s29a131vq3fx9f55) {
+  utterance ("[g:FindDS] show me a (stack)[v:Name]")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1569036063043)
+}

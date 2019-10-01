@@ -1,0 +1,15 @@
+train (t-b3obryvfv2tmu15e3igmu0lry) {
+  utterance ("[g:FindDS] what is (hashing)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568787245149)
+}
+train (t-btaihbuyugfognytfivm331cn) {
+  utterance ("[g:FindDS] (stack)[v:Name]")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567544842262)
+}
+train (t-bz61tm19avz9w02arudtgkvdb) {
+  utterance ("[g:FindDS] what are (hierarchical)[v:Types:hierarchical] data structures?")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgj1tFSGVBajEDEwMjEDMASUYGEIDyAQ==)
+  last-modified (1567520158132)
+}

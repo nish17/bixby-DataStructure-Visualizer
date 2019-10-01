@@ -1,0 +1,15 @@
+action (FindDS) {
+  type(Search)
+  description (Tells the information about data structure)
+  collect {
+    input (name) {
+      type (Name)
+      min (Optional) max (One)
+    }
+    input (type){
+      type (Types)
+      min (Optional) max (One)
+    }
+  }
+  output (DataStructure)
+}

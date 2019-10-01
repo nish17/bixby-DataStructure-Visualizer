@@ -1,0 +1,10 @@
+train (t-80h0ygmlyrkx6v047xduderrm) {
+  utterance ("[g:FindDS] what is a (queue)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568723005313)
+}
+train (t-8vm8qzcxt7xyoqju5wt26har9) {
+  utterance ("[g:FindDS] what are (binary search trees)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1567623388255)
+}

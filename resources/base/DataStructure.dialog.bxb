@@ -1,0 +1,39 @@
+dialog (Result) {
+  match: DataStructure(dataStructures){
+    from-output:FindDS(action)
+  }
+  if(size(dataStructures)>1){
+    if(exists(action.type)){
+      choose (Random){
+        template ("Here are #{size(dataStructures)} really interesting #{value(action.type)} data structures"){
+          speech ("Here are #{size(dataStructures)} really interesting #{value(action.type)} data structures")
+        }
+        template ("Let's learn about #{value(action.type)} data structures"){
+          speech ("Let's learn about #{value(action.type)} data structures")
+        }
+      }
+    }
+    else{
+      choose (Random){
+        template ("Here are the data structures for you to learn"){
+          speech ("Here are the data structures for you to learn.")
+        }
+        template ("Let's learn something new in data structures today"){
+          speech ("Let's learn something new in data structures today.")
+        }
+      }
+    }
+  }
+  else{
+    choose (Random){
+      template ("Let's learn about #{value(dataStructures.name)} data structure"){
+        speech ("Let's learn about #{value(dataStructures.name)} data structure. #{value(dataStructures.description)}.")
+
+      }
+      template ("#{value(dataStructures.name)} is a simple and interesting data structure"){
+        speech ("#{value(dataStructures.name)} is a simple and interesting data structure. #{value(dataStructures.description)}.")
+
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+train (t-9hdsh74sv5iwgekwk9bst2oz2) {
+  utterance ("[g:FindDS] tell me about (binary search tree)[v:Name]")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568787042097)
+}
+train (t-9wcaknyb1mhoin8yruqugehjz) {
+  utterance ("[g:FindDS] what is a (binary serach tree)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568722966685)
+}

@@ -1,0 +1,10 @@
+train (t-7d0zajnzzshnamgnj39pjpslb) {
+  utterance ("[g:FindDS] tell me about (binary tree)[v:Name] in data structures ")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567519984369)
+}
+train (t-7rgnvc7coux97vxxa69htc8dh) {
+  utterance ("[g:FindDS] what are (stacks)[v:Name]?")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567335888313)
+}

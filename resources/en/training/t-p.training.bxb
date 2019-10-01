@@ -1,0 +1,10 @@
+train (t-p10dm2uv567g8soepdadxlkta) {
+  utterance ("[g:FindDS] tell me about (linked lists)[v:Name]")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1567623416316)
+}
+train (t-pwednz4lyffd66urg9iy4luhi) {
+  utterance ("[g:FindDS] tell me about (binary search tree)[v:Name]")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567544800467)
+}

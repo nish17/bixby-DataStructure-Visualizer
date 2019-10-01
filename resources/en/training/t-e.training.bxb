@@ -1,0 +1,10 @@
+train (t-e4gzmqxu9saf88brimn961ybi) {
+  utterance ("[g:FindDS] let us learn about (stacks)[v:Name] today")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567332928168)
+}
+train (t-eikjundprox1rzfdfj9iu5zvf) {
+  utterance ("[g:FindDS] tell me about (binary data structure)[v:Name]")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568722959757)
+}

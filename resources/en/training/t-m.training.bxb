@@ -1,0 +1,10 @@
+train (t-mnr294npwhzhtxs0mx6nzt3i0) {
+  utterance ("[g:FindDS] what are (stacks)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1567623361231)
+}
+train (t-mpimdx09hjmpnuy1wcly1rbsi) {
+  utterance ("[g:FindDS] tell me about (array)[v:Name]")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567332898297)
+}

@@ -1,0 +1,15 @@
+train (t-x23vas56szfkbm2ajnvkx97zl) {
+  utterance ("[g:FindDS] what are (linked lists)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568787511818)
+}
+train (t-x6fuh08xckb08bil9ug5x0j74) {
+  utterance ("[g:FindDS] what is an (array)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568722965456)
+}
+train (t-xpi6w6whlfk562ygx2h0u62k2) {
+  utterance ("[g:FindDS] tell me about (q)[v:Name]")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568818031748)
+}

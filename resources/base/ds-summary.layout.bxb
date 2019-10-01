@@ -1,0 +1,42 @@
+layout-macro-def (ds-summary){
+	params{
+		param (dataStructure){
+			type (DataStructure)
+			min (Required)
+			max (One)
+		}
+	}
+	content{
+		image-card{
+			// aspect-ratio(3:4)
+			
+			image-url("#{value(dataStructure.image)}")
+			text-position (Below)
+			title-area{
+				halign (Center)
+				slot1{
+					text{
+						value("#{title(dataStructure.name)}")
+						style(Title_XS)
+					}
+				}
+				slot2{
+					single-line{
+						text{
+							value("Type: #{value(dataStructure.type)}")
+							style(Detail_M_Soft)
+						}
+					}
+				}
+				// slot3{
+				// 	paragraph{
+				// 		value("#{value(dataStructure.description)}")
+				// 		style(Detail_M_Soft)
+				// 	}			
+				// }
+			}
+    }
+
+	}
+
+}

@@ -1,0 +1,10 @@
+train (t-nera3btr5yb47zu7hypugo4gy) {
+  utterance ("[g:FindDS] show me (hierarchical)[v:Types:hierarchical] data structures")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgj1tFSGVBajEDEwMjEDMASUYGEIDyAQ==)
+  last-modified (1567520452941)
+}
+train (t-nlm619r9oomcdvr981d1b9hax) {
+  utterance ("[g:FindDS] let's learn about (binary search tree)[v:Name]")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567544897357)
+}

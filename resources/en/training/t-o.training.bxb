@@ -1,5 +1,15 @@
-train (t-o9qut0snsv2lrfdowousnm4lj) {
-  utterance ("[g:getDataStructure] tell me about (queue)[v:DataStructureConcept]")
-  plan (Y2Bm0CzISaxML8ovzUvRS0ksSQwuKSpNLiktSg3LLC5NzMmsSi3SSyn2zEvLZzAmQml6aokLshSDORGaUHQ45+clpxaUMDAxMAIxA5BkZAABKB8A)
-  last-modified (1566766143009)
+train (t-oaq5he7rdwnrhe16a15n4jzbi) {
+  utterance ("[g:FindDS] (binary search tree)[v:Name]")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567544824476)
+}
+train (t-og6nx65y8bcuk037uhwmw6wmz) {
+  utterance ("[g:FindDS] what is a (stack)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568787443565)
+}
+train (t-ojl60z5evddljur6okobs6t0q) {
+  utterance ("[g:FindDS] tell me about (stack)[v:Name] data structure")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567519883816)
 }

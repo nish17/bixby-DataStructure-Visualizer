@@ -1,0 +1,20 @@
+train (t-jh1sgce3t1xipqxn0xswxax8k) {
+  utterance ("[g:FindDS] show me (linear)[v:Types:linear] datastructures")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgj1tFSGVBajEDEwMjEDMASUYGEIDyAQ==)
+  last-modified (1567520394581)
+}
+train (t-jizfymu1pj7y9iw2bf3z0ntfs) {
+  utterance ("[g:FindDS] what is a (hashing)[v:Name] function in data structures?")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567335923791)
+}
+train (t-jj4lzf9ayuw7mpnyfzdzmazk7) {
+  utterance ("[g:FindDS] what is a (hash table)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568723073748)
+}
+train (t-jnk34m89a9yradzqskoj6dwjd) {
+  utterance ("[g:FindDS] what is a (q)[v:Name]?")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCFXdYvMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1568818051378)
+}

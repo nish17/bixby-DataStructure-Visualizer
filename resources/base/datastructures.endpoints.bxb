@@ -1,0 +1,8 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (FindDS) {
+      accepted-inputs (name,type)
+      local-endpoint (FindDS.js)
+    }
+  }
+}

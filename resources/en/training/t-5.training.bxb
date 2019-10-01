@@ -1,5 +1,5 @@
-train (t-561yyynbvia2a1xbepe6exqo6) {
-  utterance ("[g:playground.dataStructureVisualizer.getDataStructure] tell me about (stack)[v:playground.dataStructureVisualizer.DataStructureConcept]")
-  plan (Y2Bm0CzISaxML8ovzUvRS0ksSQwuKSpNLiktSg3LLC5NzMmsSi3SSyn2zEvLZzAmQml6aokLshSDORGaUHQ45+clpxaUMDAxMAIxA5BkZAABKB8A)
-  last-modified (1566766102438)
+train (t-59x9ka7zkidozyr3asyvu5yeb) {
+  utterance ("[g:FindDS] tell me about a (non linear)[v:Types:'non linear'] data structure")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCNXTaksiC1mIGJgRGIGYAkIwMIQPkA)
+  last-modified (1567623634567)
 }

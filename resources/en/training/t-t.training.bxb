@@ -1,5 +1,10 @@
-train (t-tdtush0003kg8nofxb7lve9sz) {
-  utterance ("[g:getDataStructure] show me (array)[v:DataStructureConcept]")
-  plan (Y2Bm0CzISaxML8ovzUvRS0ksSQwuKSpNLiktSg3LLC5NzMmsSi3SSyn2zEvLZzAmQml6aokLshSDORGaUHQ45+clpxaUMDAxMAIxA5BkZAABKB8A)
-  last-modified (1566820263319)
+train (t-t0yn4vtb91sl3ynthgsrjyol9) {
+  utterance ("[g:FindDS] give me information about (queue)[v:Name]")
+  plan (Y2BmUC/ISaxML8ovzUvRS0ksSQwuKSpNLiktSi3Wc0HmMijgVuiWmZfiEswgh1uFX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1567332956632)
+}
+train (t-txflikv8vcnw87zugq836gq1m) {
+  utterance ("[g:FindDS] tell me about a (linear)[v:Types:linear] data structure")
+  plan (Y2BmUM7LLM4wNNdLSSxJDC4pKk0uKS1KLdZzQeYyyGBX5JaZl+ISzCCNXTaksiC1mIGJgRGIGYAkIwMIQPkA)
+  last-modified (1567623556142)
 }

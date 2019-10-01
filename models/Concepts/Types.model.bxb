@@ -1,0 +1,8 @@
+enum (Types){
+  symbol (linear)
+  symbol (non linear)
+  symbol (hierarchical)
+  features{
+    transient
+  }
+}

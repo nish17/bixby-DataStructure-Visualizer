@@ -4,8 +4,21 @@
 ## 🤔 What's Data Structure Visualizer?
 It's a Bixby Capsule 🤖 that gives you information about data structures.
 
-### Currently it's under development. Stay Tuned!
+
+## 📱  Screenshots:
+
+
+### List of all Data Structures:
+<img src="assets/images/screenshot1.png" height="600px">
+
+
+### About Binary Search Tree:
+<img src="assets/images/screenshot2.png" height="600px">
+
+
+### About Linear Data Structures:
+<img src="assets/images/screenshot3.png" height="600px">
+
 
 ## ❤️ Credits:
 All the amazing guys at [Samsung](https://www.samsung.com/us/) and [Viv Labs](http://viv.ai/).
-
