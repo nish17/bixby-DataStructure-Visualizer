@@ -1,4 +1,4 @@
-var data = require('./utils/dataStructure.js');
+var {data} = require('./utils/dataStructure.js');
 var console = require('console');
 module.exports.function = function getDataStructureAction(dsName, type) {
   // var ds = null;

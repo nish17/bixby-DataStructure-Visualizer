@@ -1,21 +1,20 @@
 result-view{
 	match: dsInfo (dataInfo)
 	render{
-		// if (size(dataInfo)>1){
-		// 	list-of (dataInfo){
-		// 		where-each (data){
-		// 			layout-macro (data-summary){
-		// 				param(data){
-		// 					expression (data)
-		// 				}
-		// 			}
-		// 		}
-		// 	}
-		// }
-    // else-
-    if (size(dataInfo)==1){
+		if (size(dataInfo)>1){
+			list-of (dataInfo){
+				where-each (datastruct){
+					layout-macro (data-summary){
+						param(datastruct){
+							expression (datastruct)
+						}
+					}
+				}
+			}
+		}
+    else-if (size(dataInfo)==1){
       layout-macro (dataStructureDetails){
-        param(data){
+        param(datastruct){
           expression (dataInfo)
         }
       }

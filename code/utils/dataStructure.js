@@ -1,4 +1,4 @@
-const ds = [
+const data = [
     {
       name: "Array",
       type: "Linear Data structure",
@@ -91,4 +91,6 @@ const ds = [
     } 
   ];
   
-  module.exports = ds
+module.exports = {
+  data:data,
+}
